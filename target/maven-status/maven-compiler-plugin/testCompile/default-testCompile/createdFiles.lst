@@ -1,0 +1,12 @@
+pages\BasePage.class
+pages\LoginPage.class
+testcases\regression\ValidateLoginUsingKeywords.class
+testcases\regression\ValidateLoginTestUsingExcel.class
+util\UtilKitPractisce1.class
+keywords\ValidationKeywords.class
+testcases\regression\ValidateLoginUsingHybrid.class
+base\BaseTest.class
+testcases\regression\ValidateLoginTest.class
+keywords\GenericKeywords.class
+testcases\regression\ValidateLoginTestUsingExcel2.class
+keywords\ApplicationKeywords.class
